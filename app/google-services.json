@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "399621388717",
+    "firebase_url": "https://passwordsafer.firebaseio.com",
+    "project_id": "passwordsafer",
+    "storage_bucket": "passwordsafer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399621388717:android:d29cdebb3ab1223a",
+        "android_client_info": {
+          "package_name": "com.gcop.passwordsafer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "399621388717-96v53tmqfkumr1qsetnntlbp2fpldfpa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDD0nDYZ6yVUgpVExr9XRpXJpZf1DrqLGw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "399621388717-96v53tmqfkumr1qsetnntlbp2fpldfpa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
